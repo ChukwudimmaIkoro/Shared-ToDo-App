@@ -59,7 +59,7 @@ Our app allows a group of people to come together and create a project. When you
 - Profile Screen
 - Timeline Screen
 - Settings Screen
-- 
+- User Tasks Screen
 
 ## Flow Navigation
 
